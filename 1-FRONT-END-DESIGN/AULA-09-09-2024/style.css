@@ -1,0 +1,7 @@
+:root {--color: red;}
+
+.opaa {--color: green;}
+
+#opaa {--color: blue;}
+
+* {color: var(--color);}
